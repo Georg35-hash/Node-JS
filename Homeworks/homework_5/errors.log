@@ -1,0 +1,30 @@
+2025-05-23T13:52:58.982Z - Error: Test error for logging
+    at Server.<anonymous> (C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\Lessons\Node JS\Homeworks\homework_5\server2.js:7:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1141:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:118:17)
+2025-05-23T13:53:01.595Z - Error: Test error for logging
+    at Server.<anonymous> (C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\Lessons\Node JS\Homeworks\homework_5\server2.js:7:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1141:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:118:17)
+2025-05-23T13:53:54.811Z - Error: Test error for logging
+    at Server.<anonymous> (C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\Lessons\Node JS\Homeworks\homework_5\server2.js:7:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1141:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:118:17)
+2025-05-23T13:53:55.016Z - Error: Test error for logging
+    at Server.<anonymous> (C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\Lessons\Node JS\Homeworks\homework_5\server2.js:7:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1141:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:118:17)
+2025-05-23T13:53:55.643Z - Error: Test error for logging
+    at Server.<anonymous> (C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\Lessons\Node JS\Homeworks\homework_5\server2.js:7:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1141:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:118:17)
+2025-05-23T13:53:55.852Z - Error: Test error for logging
+    at Server.<anonymous> (C:\Users\Heorhii\Ew Dropbox\George Vasiliev\ПК\Desktop\Lessons\Node JS\Homeworks\homework_5\server2.js:7:11)
+    at Server.emit (node:events:519:28)
+    at parserOnIncoming (node:_http_server:1141:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:118:17)
