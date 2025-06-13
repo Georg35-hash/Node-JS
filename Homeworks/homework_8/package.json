@@ -1,0 +1,18 @@
+{
+  "name": "hw7",
+  "module": "index.ts",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "sequelize-cli": "^6.6.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
+  }
+}
